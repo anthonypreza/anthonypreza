@@ -1,9 +1,8 @@
-
 # Anthony Preza
 
-Senior Software & Data Engineer at Netflix, working on distributed data systems, ML infrastructure, and production data pipelines.
+I’m a Senior Software & Data Engineer at Netflix, where I work on distributed data systems, ML infrastructure, and production data pipelines.
 
-In my free time, I experiment with machine learning by implementing PyTorch models and exploring how different architectures work under the hood. I also like building tools that bring together software engineering and ML.
+In my free time, I like experimenting with machine learning by implementing PyTorch models and exploring how different architectures work under the hood. I also enjoy building tools that bring together software engineering and ML.
 
 ### Projects
 
