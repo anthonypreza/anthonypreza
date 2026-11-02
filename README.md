@@ -3,7 +3,7 @@
 
 Senior Software & Data Engineer at Netflix, working on distributed data systems, ML infrastructure, and production data pipelines.
 
-Outside of work, I enjoy experimenting with machine learning, implementing models in PyTorch, and exploring how different architectures work under the hood. I also like building tools that bring together software engineering and ML.
+In my free time, I experiment with machine learning by implementing PyTorch models and exploring how different architectures work under the hood. I also like building tools that bring together software engineering and ML.
 
 ### Projects
 
